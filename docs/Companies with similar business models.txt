@@ -1,0 +1,36 @@
+Quartzy : The world’s No. 1 lab management platform. We help scientists easily organize orders, manage inventory, and save money.
+https://www.quartzy.com
+
+
+Microhealth:We develop digital therapeutics to address unmet medical needs in hematology and oncology.
+http://microhealth.com
+
+AgileMD:e are building the most advanced real-time predictive analytics and clinical algorithms platform for hospitals. Our cloud-based engine helps thousands of doctors and nurses around the country make medical decisions, so that every patient receives the highest quality and value of care based on the latest medical knowledge and data.
+https://www.agilemd.com/
+
+Thrive Agritech : Thrive Agritech designs and manufactures advanced lighting fixtures for indoor agriculture. We have a patent pending LED lighting system that precisely targets various photosynthetic spectrums.
+Many thousands of our LED lighting fixtures have been installed in some of the world's leading indoor farms. Our products are saving millions of watt-hours of energy every day in vertical farms, greenhouses and cannabis production facilities.
+
+http://www.thriveagritech.com
+
+Framewise Health: We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.
+
+https://framewisehealth.com
+
+
+Prana : Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for "clinical drift," catching subtle declines in health that human doctors miss between visits.
+
+Most AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.
+
+Safety & Scale: We automate 90% of the "grunt work" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care.
+
+https://pranadoc.com
+
+
+Circle Medical : Circle Medical is a venture-backed Y-Combinator healthcare startup on a mission to bring quality, delightful primary care to everyone on the planet. Built by top-tier physicians, engineers, and designers, our medical practice and underlying technology have pioneered how people find and receive care.
+
+Our focus on building directly for our patients and providers to address serious care accessibility issues has enabled us to grow over 3X year-over-year. We’re now using our most recent round of funding from WELL Health, backed by Sir Li Ka-shing, to continue building out our hybrid in-clinic and telemedicine model across all fifty states.
+
+
+https://circlemedical.com
+

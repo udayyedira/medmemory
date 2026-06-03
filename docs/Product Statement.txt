@@ -1,0 +1,26 @@
+Statement : 
+
+A secure web app for Indian families to store, organize, search, and understand medical records across a lifetime.
+
+
+In scope for v1
+
+account creation
+family member profiles
+document upload
+OCR
+AI extraction
+manual review
+timeline
+search
+basic subscription
+
+Out of scope for v1
+
+doctor booking
+telemedicine
+diagnosis
+treatment advice
+wearables
+insurance
+mobile app
